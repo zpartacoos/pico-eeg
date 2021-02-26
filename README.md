@@ -3,6 +3,7 @@
 ![pico-eeg Logo](https://raw.githubusercontent.com/zpartacoos/pico-eeg/master/images/PICO-EEG.png)
 
 <p>
+
 # pico-eeg
 Attempting to develop a FLOSS Pico-based EEG interface that allows users to cheaply assemble their own circuit with off-the-shelf components and train an embedded machine learning model to be able to control GPIO pins with their brain waves (i.e ability to turn LEDs or other components on with your thoughts).
 
@@ -12,18 +13,16 @@ Attempting to develop a FLOSS Pico-based EEG interface that allows users to chea
 - integrate the software and hardware
 
 ### Tools:
-- Software
+- Software:
   - TensorFlow Lite micro
   - Pico C/C++ SDK
-- Hardware
-- Raspberry Pi Pico
-- EEG components (TBC)
+- Hardware:
+  - Raspberry Pi Pico
+  - EEG components (TBC)
 
-
-
-
-
-
+### Status:
+- Software:
+  - Jupyter notebook with EEG model
 
 A word on the use of **GitHub** as the primary platform for the code hosting of this project:
 
